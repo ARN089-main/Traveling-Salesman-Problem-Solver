@@ -1,4 +1,4 @@
-THIS PROJECT IS BUILD BY [@](https://github.com/ARN089-main/) and @Jaish Minocha
+THIS PROJECT IS BUILD BY [Adarsh Nayak](https://github.com/ARN089-main/) and @Jaish Minocha
 for the DAA project
 
 
