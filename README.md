@@ -1,2 +1,7 @@
+THIS PROJECT IS BUILD BY [@](https://github.com/ARN089-main/) and @Jaish Minocha
+for the DAA project
+
+
 # Traveling-Salesman-Problem-Solver
+
 a program that solves the Traveling Salesman Problem using Brute Force algorithm. The program is to take input from a user about the locations, distances, and constraints and return the optimal solution.
